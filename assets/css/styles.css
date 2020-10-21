@@ -52,3 +52,6 @@ h4{
 .col-3{
   min-width:200px;
 }
+.col-8{
+  margin: 0;
+}
