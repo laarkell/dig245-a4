@@ -2,6 +2,7 @@
 /* css */
 body{
   font-family: helvetica;
+  color: #332e52;
 }
 h1{
   text-align: center;
@@ -10,12 +11,13 @@ h1{
   font-size: 3.5rem;
 }
 h3{
-  font-weight: 500;
+  font-weight: 700;
   text-transform: uppercase;
+  font-size: 2rem;
 }
 .banner{
   height: 30px;
-  background-color: #32CD32;
+  background-color: #e0ec9a;
 }
 .topic{
   font-size: 18px;
@@ -26,14 +28,16 @@ h4{
 }
 .numbers{
   font-size: 32px;
-  padding-top:3.75rem;
-  background-color:#32CD32;
+  background-color:#e0ec9a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .row{
   margin: 15px;
 }
 .tasks{
-  background-color: pink;
+  background-color: #ee6d86;
   display: flex;
   align-items: center;
 }
