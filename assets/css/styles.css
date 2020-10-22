@@ -35,9 +35,7 @@ h4{
   justify-content: center;
 }
 .row{
-  margin: 15px;
   flex-wrap: wrap;
-
 }
 .tasks{
   background-color: #ee6d86;
@@ -46,13 +44,6 @@ h4{
   font-weight: 600;
   min-height: 200px;
 }
-.pics{
-  width: 200px;
-  height:200px;
-}
 .col-3{
   min-width:200px;
-}
-.col-8{
-  margin: 0;
 }
